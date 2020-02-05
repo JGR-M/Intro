@@ -1,0 +1,28 @@
+
+html {
+  background: url(../images/world-maps.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+
+.firstname {
+  text-align: center;
+  color: red;
+}
+
+.lastname{
+  text-align: center;
+  color: antiquewhite;
+}
+
+#name{
+  float: left;
+}
+
+#pic{
+  float: right;
+}
+
+
