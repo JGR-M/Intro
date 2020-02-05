@@ -9,12 +9,12 @@ html {
 
 .firstname {
   text-align: center;
-  color: red;
+  color: rgb(134, 187, 236);
 }
 
 .lastname{
   text-align: center;
-  color: antiquewhite;
+  color: rgb(245, 243, 240);
 }
 
 #name{
