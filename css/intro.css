@@ -1,6 +1,6 @@
 
 html {
-  background: url(../images/world-maps.jpg) no-repeat center center fixed;
+  background: url(../images/dark-bkg.jpg.png) no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   overflow: hidden;
@@ -9,7 +9,7 @@ html {
 
 .firstname {
   text-align: center;
-  color: rgb(134, 187, 236);
+  color: rgb(42, 114, 182);
 }
 
 .lastname{

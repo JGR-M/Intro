@@ -1,0 +1,27 @@
+
+html {
+    background: url(../images/dark-bkg.jpg.png) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    /* overflow: hidden;   does not make webpage */
+  }
+
+#coffee{
+    color: blanchedalmond;
+    text-align: center;
+}
+
+#chicken {
+    color: red;
+    text-align: center;
+}
+
+#tea {
+    color: greenyellow;
+    text-align: center;
+    padding-right: 60%;
+}
+
+#intro {
+    color: whitesmoke;
+}
