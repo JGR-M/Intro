@@ -25,4 +25,6 @@ html {
   float: right;
 }
 
-
+#logo {
+  background-image: url(/Intro/images/logo.png);
+}
