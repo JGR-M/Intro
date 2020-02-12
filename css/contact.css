@@ -9,3 +9,7 @@ html {
   #icon {
     padding-left: 10px;
   }
+
+  .email {
+    text-transform: lowercase;
+  }

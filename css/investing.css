@@ -7,8 +7,13 @@ html {
   }
   
 
-
+/* still dont have it right for full and small screen */
 .row{
     width: 100%;
     height: 100%;
+    background-color: transparent;
+}
+
+#item{
+    background-color: transparent;
 }
