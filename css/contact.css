@@ -6,10 +6,4 @@ html {
     /* overflow: hidden; */
   }
   
-  #icon {
-    padding-left: 10px;
-  }
 
-  .email {
-    text-transform: lowercase;
-  }
