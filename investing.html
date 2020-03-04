@@ -58,12 +58,11 @@
         <li><a href="contact.html">Contact</a></li>
     </ul>
 
-<!-- first -->
+<!-- first    eur/cad-->
 <div class="container">
     <div class="row">
       <div class="col s12 m12 l12">
         <div class="card transparent">
-          <div class="card-image">
             
             <div class="container">
               <ul class='carousel carousel-slider'>
@@ -91,12 +90,11 @@
   </div>      
   
   
-<!-- second -->
+<!-- second    cad/jpy-->
     <div class="container" id='second'>
       <div class="row">
         <div class="col s12 m12 l12">
           <div class="card transparent">
-            <div class="card-image">
               
               <div class="container">
                 <ul class='carousel carousel-slider'>
@@ -125,8 +123,8 @@
   </div>
 
 
-
-  <div class="container" id='second'>
+<!-- third -->
+  <div class="container" id='third'>
     <div class="row">
       <div class="col s12 m12 l12">
         <div class="card transparent">
@@ -180,6 +178,11 @@
 
       const second = document.querySelector('#second')
       M.Carousel.init(second,{
+        indicators:false
+      });
+
+      const third = document.querySelector('#third')
+      M.Carousel.init(third,{
         indicators:false
       });
 
